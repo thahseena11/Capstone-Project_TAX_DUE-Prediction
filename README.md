@@ -22,4 +22,4 @@
 #### Provided code for loading the model to make predictions on new, unseen data.
 ## 8.Future Work:
 #### Suggested improvements include collecting more data on property, exploring different machine learning algorithms, addressing potential class imbalances, and adding more features such as customer demographics and seasonal trends to enhance the model's accuracy and performance.
-#### By following these steps, the project demonstrates a comprehensive approach to developing and deploying a machine learning model for predicting property tax_due. This offers valuable insights for property owners to optimize their operations.
+### By following these steps, the project demonstrates a comprehensive approach to developing and deploying a machine learning model for predicting property tax_due. This offers valuable insights for property owners to optimize their operations.
